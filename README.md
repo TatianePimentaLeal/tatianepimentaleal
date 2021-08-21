@@ -1,10 +1,7 @@
 ### Hi there! I am Tatiane Leal.
 
 - 🔭 I’m currently working on Front-end
-- 🌱 I’m currently learning Javascript, HTML & CSS
-- 👯 I’m looking to collaborate on Open Source projects related to education
-- 🤔 I’m looking for help with CSS
-- 📫 How to reach me: tatianepimentaleal@gmail.com
+- 📫 How to reach me: tatianepimentaleal@gmail.com or https://twitter.com/tatyplummer
 - 😄 Pronouns: She/Her
 
 <div>
