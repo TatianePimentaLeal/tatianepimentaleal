@@ -15,7 +15,7 @@
   <img align="center" alt="Tati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Tati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tati-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/3oEduFptBn3RrYG20E/giphy.gif">
+  <img align="right" alt="Angry-student-hermione" src="https://media.giphy.com/media/3oEduFptBn3RrYG20E/giphy.gif">
 </div>
   
   ##
@@ -25,5 +25,8 @@
  	<a href="https://www.instagram.com/tatyplummer/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:tatianepimentaleal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tatianecampospimentaleal/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
 </div>
+  
+<div>
+   <a href="https://tatianepimentaleal.hashnode.dev" target="_blank"><img src="https://uploads-ssl.webflow.com/5fef4f79d91ad37e72037ddb/5ff3597ba97d9b935ae2e2aa_lazar-pavlovic-hashnode-logo.png" target="_blank" width="200"></a> 
+  </div>
