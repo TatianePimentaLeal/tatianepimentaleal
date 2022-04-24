@@ -1,6 +1,6 @@
 ### Hi there! I am Tatiane Leal.
 
-- 🔭 I’m currently working on Front-end (Alura) and learning Java (MJV). 
+- 🔭 I’m currently working on Front-end (Alura) and working as a Java Trainee at the MJV Innovation. 
 - :books: I have a BSc Librarianship degree and have postgraduate degree in Information Architeture. I am experience in global pharmaceutical companies as Sanofi and GSK, already manage a team of seven people and now I am looking forward to apply for a Developer job. I have advanced English and basic Spanish/French.
 - 📫 How to reach me: tatianepimentaleal@gmail.com or https://twitter.com/tatyplummer
 - :newspaper: Check my articles here: https://tatianepimentaleal.hashnode.dev
